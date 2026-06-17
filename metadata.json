@@ -1,0 +1,6 @@
+{
+  "name": "NDK.VSpecs — Lyric Video Generator",
+  "description": "Professional lyric video workstation featuring real-time audio spectrum, customizable lyric layouts, active drag & drop spacing, translation subtitles, and high-fidelity rendering outputs powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
